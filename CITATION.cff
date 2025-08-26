@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Digital Accessibility Toolkit"
+message: "If you use this software, please cite it."
+type: software
+authors:
+  - family-names: "Kondapalli"
+    given-names: "Kalyana Krishna"
+    orcid: "0000-0000-0000-0000"
+repository-code: "https://github.com/your-org/digital-accessibility-toolkit"
+keywords:
+  - accessibility
+  - wcag
+  - playwright
+  - axe-core
+  - ci
+  - dashboard
+license: MIT
+version: "0.1.0"

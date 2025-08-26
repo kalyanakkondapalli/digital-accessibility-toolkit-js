@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  dat:
+    build: .
+    container_name: dat_tool
+    command: node src/scanner.js https://example.com
